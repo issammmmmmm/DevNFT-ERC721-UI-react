@@ -18,11 +18,7 @@ This React app connects to a deployed ERC-721 smart contract and displays an NFT
 
 ## 🖼 Screenshots
 
-### 🔌 Wallet connected
-![connected](./screenshots/video.mp4)
-
-### 🖼 NFT displayed
-![nft_displayed](./screenshots/nft_displayed.png)
+look through the files
 
 ## 🧠 Metadata
 
