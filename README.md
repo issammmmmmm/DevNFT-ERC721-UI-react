@@ -14,6 +14,8 @@ This React app connects to a deployed ERC-721 smart contract and displays an NFT
 - 🧠 Network: Sepolia 
 - 🔗 [View on Etherscan](https://sepolia.etherscan.io/address/0x39B6173A738526bcF8a801d0eE182e7d1a350dA5)
 
+- 🔗 tokenURI: [https://gateway.pinata.cloud/ipfs/bafkreigkh7l2pn6p4op6bpweb6b7guy7sxg37idanyagn5avuh2zbmulsy)
+
 ## 🖼 Screenshots
 
 ### 🔌 Wallet connected
